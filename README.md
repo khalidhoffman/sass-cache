@@ -17,3 +17,9 @@ sass.render({
         /*...*/
     });
 ```
+
+## Features
+Function Name | Params                            | Description
+--------------|-----------------------------------|----------------
+`cache-save`  | `selector`, `namespace`, `value`  | caches a value for that for the selector and namespace
+`cache-load`  | `selector`, `namespace`           | loads cached value for the selector and namespace
