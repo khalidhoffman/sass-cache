@@ -1,0 +1,33 @@
+{
+  "name": "sass-cache",
+  "version": "0.0.1",
+  "description": "selector-specifc cache functionality for sass",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.3",
+    "node-sass": "^4.1.1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-spec-reporter": "^2.7.0"
+  },
+  "scripts": {
+    "test": "node bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidhoffman/sass-cache.git"
+  },
+  "keywords": [
+    "sass",
+    "cache",
+    "css",
+    "functions"
+  ],
+  "author": "khalidhoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidhoffman/sass-cache/issues"
+  },
+  "homepage": "https://github.com/khalidhoffman/sass-cache#readme"
+}
