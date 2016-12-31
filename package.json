@@ -1,6 +1,6 @@
 {
   "name": "sass-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "selector-specifc cache functionality for sass",
   "main": "index.js",
   "dependencies": {
